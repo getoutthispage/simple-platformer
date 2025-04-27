@@ -1,4 +1,6 @@
 # Simple platformer
+![Simple platformer](simple-platformer-clone.png)
+
 > Simple platformer — простой платформер, реализован контроллер, переход между сценами.
 
 Темы: 
